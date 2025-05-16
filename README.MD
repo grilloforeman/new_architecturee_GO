@@ -107,5 +107,5 @@ LOCALIZE THE SSCZZ.TOP
 MAYBE SOME DAY MIT GPL3
 
 
-[![PART1](Gemini_FODAO.png)](https://www.youtube.com/watch?v=ooYPy08j0tM)
-[![PART1](Gemini_FODAO.png)](https://www.youtube.com/watch?v=bjJBuxxQHoE)
+[![PART1](Gemini_FODAO.jpg)](https://www.youtube.com/watch?v=ooYPy08j0tM)
+[![PART2](Gemini_FODAO.jpg)](https://www.youtube.com/watch?v=bjJBuxxQHoE)
